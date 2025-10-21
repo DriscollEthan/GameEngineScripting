@@ -12,3 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+#Do not ignore anything from Plugins
+!Plugins
+!Plugins/*
+!Plugins/**

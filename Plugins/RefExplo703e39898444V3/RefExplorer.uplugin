@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.2",
+	"FriendlyName": "Ref Explorer",
+	"Description": "Ref Explorer",
+	"Category": "Editor",
+	"CreatedBy": "Pentangle Studio",
+	"CreatedByURL": "https://www.unrealengine.com/marketplace/profile/Pentangle+St.",
+	"DocsURL": "https://www.unrealengine.com/marketplace/product/b9d5568cba4845749f57fd0e027d447f",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b9d5568cba4845749f57fd0e027d447f",
+	"SupportURL": "https://discord.gg/TjxHxkwzRb",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "RefExplorerEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
